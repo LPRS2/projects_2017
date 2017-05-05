@@ -52,25 +52,13 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Radenko",
-					"Banovic",
-					"RA-38/2014",
-					"banovic@protonmail.ch",
+					"Ime",
+					"Prezime",
+					"RA-XXX/20YY",
+					"xxx@yyy",
 					0
 				),
 			]
-			
-			Student[
-				Student(
-					"Lana",
-					"Salai",
-					"RA-45/2014",
-					"lanadjukanovic@gmail.com",
-					0
-				),
-			]
-			
-			
 		),
 		Spec(
 			"""
@@ -192,19 +180,12 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Miroslav",
-					"Radakovic",
-					"RA-40/2014",
-					"miroslav.radakovic23@gmail.com",
-					0
-				),Student(
-					"Milan",
-					"Djokic",
-					"RA-11/2014",
-					"milandjokic1995@gmail.com",
+					"Ime",
+					"Prezime",
+					"RA-XXX/20YY",
+					"xxx@yyy",
 					0
 				),
-				
 			]
 		),
 		Spec(
@@ -317,7 +298,7 @@ projects = Project[
 					"Filip",
 					"Dutina",
 					"RA-43/2014",
-					"filip.dutina@gmail.com",
+					"xxx@yyy",
 					0
 				),
 				Student(
@@ -552,10 +533,31 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Milan",
+					"Gvero",
+					"RA-20/2014",
+					"mgstivig585@gmail.com",
+					0
+				),
+				Student(
+					"Isidora",
+					"Seleakovic",
+					"RA-103/2014",
+					"isii24sk@gmail.com",
+					0
+				),
+				Student(
+					"Srdjan",
+					"Zivanic",
+					"RA-204/2013",
+					"srdjan.zivanic@gmail.com",
+					0
+				),
+				Student(
+					"Djordje",
+					"Ramic",
+					"RA-223/2014",
+					"djramic@gmail.com",
 					0
 				),
 			]
