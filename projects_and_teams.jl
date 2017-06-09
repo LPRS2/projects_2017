@@ -174,11 +174,13 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/Una13/super_mario"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/vukse95/super_mario",
+			"https://www.youtube.com/watch?v=SAvxq3wCmuk",
+			"https://github.com/vukse95/super_mario/blob/master/battle_city_design/Super_Mario.bit",
+			"https://github.com/vukse95/super_mario/blob/master/SuperMario.docx"
 		),
 		false
 	),
