@@ -274,7 +274,7 @@ z			"https://github.com/X/Y",
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/rondor1/Buzzer-synthesizer",
 		),
 		false
 	),
