@@ -426,14 +426,14 @@ projects = Project[
 			]
 		),
 		Spec(
-			"""
-			""",
+			"https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.bit"
+			"https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.docx",
 			URL[
-				URL(""),
+				URL("https://www.youtube.com/watch?v=E8eU3c0RGbA"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/milakotur/LPRS2_Breakout",
 		),
 		false
 	),
