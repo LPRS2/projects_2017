@@ -514,11 +514,13 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/SuvakovSrdjan/LPRS2_Asteroids_game",
+			"https://www.youtube.com/watch?v=J_ozp9WmpPI",
+			"https://github.com/SuvakovSrdjan/LPRS2_Asteroids_game/AsteroidsGame.bit"
 		),
 		false
 	),
