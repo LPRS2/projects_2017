@@ -429,7 +429,7 @@ projects = Project[
 		false
 	),
 	Project(
-		"I2C network – game of choice",
+		"I2C network – papir, kamen, makaze",
 		45,
 		4,
 		Team(
@@ -472,7 +472,11 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/stevanStevic/I2C_on_E2LP",
+			"https://github.com/stevanStevic/I2C_on_E2LP/blob/master/kamen_papir_makaze_master.bit",
+			"https://github.com/stevanStevic/I2C_on_E2LP/blob/master/kamen_papir_makaze_slave.bit",
+			"https://github.com/stevanStevic/I2C_on_E2LP/blob/master/LPRS2.docx",
+			"https://www.youtube.com/watch?v=0m8N68aj5Jk"
 		),
 		false
 	),
