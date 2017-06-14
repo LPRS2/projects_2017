@@ -760,7 +760,8 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/storus/sudoku2017",
+			"https://youtu.be/bYdSoxW8BNk"
 		),
 		false
 	),
