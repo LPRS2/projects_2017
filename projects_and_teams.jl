@@ -52,10 +52,31 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Radenko",
+					"Banovic",
+					"RA-38/2014",
+					"banovic@protonmail.ch",
+					0
+				),
+				Student(
+					"Lana",
+					"Salai",
+					"RA-45/2014",
+					"lanadjukanovic@gmail.com",
+					0
+				),
+				Student(
+					"Ksenija",
+					"Popov",
+					"RA-151/2014",
+					"ksenija.popov@gmail.com",
+					0
+				),
+				Student(
+					"Nemanja",
+					"Lazukic",
+					"RA-228/2014",
+					"nemanjal95@hotmail.com",
 					0
 				),
 			]
@@ -64,7 +85,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
@@ -79,10 +100,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Predrag",
+					"Sladek",
+					"RA-48/2014",
+					"pedjasladek@gmail.com",
+					0
+				),
+				Student(
+					"Stefan",
+					"Masalušić",
+					"RA-193/2014",
+					"masalusicstefan@gmail.com",
+					0
+				),
+				Student(
+					"Nedeljko",
+					"Mutlak",
+					"RA-28/2014",
+					"nedeljkomutlak@gmail.com",
 					0
 				),
 			]
@@ -91,11 +126,14 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/pedjasladek/Skocko.git",
+			"https://www.youtube.com/watch?v=WBCmfev_4Ew",
+			"https://github.com/pedjasladek/Skocko/blob/master/skocko.bit",
+			"https://github.com/pedjasladek/Skocko/blob/master/Skocko%20dokumentacija.doc"
 		),
 		false
 	),
@@ -106,10 +144,31 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Jelena"
+					"Jovičić"
+					"RA-127/2014"
+					"jjovicic13@hotmail.rs"
+					0
+				),
+				Student(
+					"Mia"
+					"Stepanović"
+					"RA-129/2014"
+					"miastepanovic19@gmail.com"
+					0
+				),
+				Student(
+					"Aleksandar"
+					"Lazić"
+					"RA-104/2014"
+					"lazic.aleksandar11@gmail.com"
+					0
+				),
+				Student(
+					"Stefan"
+					"Vukanović"
+					"RA-210/2014"
+					"stefan.vukanovic@hotmail.com"
 					0
 				),
 			]
@@ -118,11 +177,13 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/vukse95/super_mario",
+			"https://www.youtube.com/watch?v=SAvxq3wCmuk",
+			"https://github.com/vukse95/super_mario/blob/master/battle_city_design/Super_Mario.bit",
+			"https://github.com/vukse95/super_mario/blob/master/SuperMario.docx"
 		),
 		false
 	),
@@ -133,19 +194,27 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Miroslav",
+					"Radakovic",
+					"RA-40/2014",
+					"miroslav.radakovic23@gmail.com",
 					0
 				),
+				Student(
+					"Milan",
+					"Djokic",
+					"RA-11/2014",
+					"milandjokic1995@gmail.com",
+					0
+				),
+				
 			]
 		),
 		Spec(
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MilosSubotic/FBless_2D_GPU"),
 			]
 		),
 		Solution(
@@ -172,7 +241,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -199,7 +268,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -241,46 +310,84 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Robert",
+					"Šandor",
+					"RA-17/2014",
+					"robert.sandor@outlook.com",
 					0
 				),
+				Student(
+					"Filip",
+					"Dutina",
+					"RA-43/2014",
+					"filip.dutina@gmail.com",
+					0
+				),
+				Student(
+					"Aleksandar",
+					"Jurica",
+					"RA-47/2014",
+					"jurica.aleksandar@gmail.com",
+					0
+				),
+				Student(
+					"Milan",
+					"Vidić",
+					"RA-241/2015",
+					"milan_vidic000@yahoo.com",
+					0
+				)
 			]
 		),
 		Spec(
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/boza94/pizeo_buzz"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/rondor1/Buzzer-synthesizer",
+			"https://www.youtube.com/watch?v=Gk8j9Fwqae4",
+			"https://github.com/rondor1/Buzzer-synthesizer/blob/master/BuzzerSynthesizer.bit",
+			"https://github.com/rondor1/Buzzer-synthesizer/blob/master/Buzzer%20Synthesizer.pdf"
 		),
 		false
 	),
 	Project(
-		"Pacmen",
+		"Pacman",
 		40,
 		3,
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
-					0
-				),
+					"Marko",
+ 					"Matic",
+ 					"RA-87/2014",
+ 					"maticmarko95@yahoo.com",
+ 					0
+ 				),
+ 				Student(
+ 					"Damir",
+ 					"Letic",
+ 					"RA-232/2013",
+ 					"cenejac94@gmail.com",
+ 					0
+ 				),
+ 				Student(
+ 					"Maja",
+ 					"Zerajic",
+ 					"RA-101/2013",
+ 					"majazerajic94@gmail.com",
+  					0
+  				),
 			]
 		),
 		Spec(
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
@@ -295,10 +402,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Dejan",
+					"Martinov",
+					"RA-94/2013",
+					"dejan.martinov94@yahoo.com",
+					0
+				),
+				Student(
+					"Uros",
+					"Ristanovic",
+					"RA-223/2013",
+					"urosristanovic@gmail.com",
+					0
+				),
+				Student(
+					"Nemanja",
+					"Rotman",
+					"RA-240/2013",
+					"roki94ftn@gmail.com",
 					0
 				),
 			]
@@ -307,7 +428,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MilosSubotic/Interpol"),
 			]
 		),
 		Solution(
@@ -316,16 +437,37 @@ projects = Project[
 		false
 	),
 	Project(
-		"CAN network – game of choice",
+		"I2C network – papir, kamen, makaze",
 		45,
 		4,
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Aleksa",
+					"Corovic",
+					"RA-54/2014",
+					"aleksa.corovic@systemli.org",
+					0
+				),
+				Student(
+					"Mihailo",
+					"Stojanovic",
+					"RA-26/2014",
+					"mihailo.stojanovic26@gmail.com",
+					0
+				),
+				Student(
+					"Stevan",
+					"Stevic",
+					"RA-63/2014",
+					"stevan.stevic4343@gmail.com",
+					0
+				),
+				Student(
+					"Marko",
+					"Dragojevic",
+					"RA-74/2014",
+					"marko.godra@gmail.com",
 					0
 				),
 			]
@@ -334,11 +476,15 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/LPRS2/lab5"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/stevanStevic/I2C_on_E2LP",
+			"https://github.com/stevanStevic/I2C_on_E2LP/blob/master/kamen_papir_makaze_master.bit",
+			"https://github.com/stevanStevic/I2C_on_E2LP/blob/master/kamen_papir_makaze_slave.bit",
+			"https://github.com/stevanStevic/I2C_on_E2LP/blob/master/LPRS2.docx",
+			"https://www.youtube.com/watch?v=0m8N68aj5Jk"
 		),
 		false
 	),
@@ -376,19 +522,26 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Andrej",
+					"Kaprocki",
+					"RA-2/2014",
+					"andrej149acm@gmail.com",
 					0
 				),
+				Student(
+					"Dusan",
+					"Prica",
+					"RA-19/2014",
+					"prica.dusan16@gmail.com",
+					0
+				)
 			]
 		),
 		Spec(
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -426,14 +579,15 @@ projects = Project[
 			]
 		),
 		Spec(
-			"https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.bit"
-			"https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.docx",
+			"",
 			URL[
-				URL("https://www.youtube.com/watch?v=E8eU3c0RGbA"),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
-			"https://github.com/milakotur/LPRS2_Breakout",
+			URL("https://github.com/milakotur/LPRS2_Breakout"),
+      URL("https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.bit"),
+			URL("https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.docx")
 		),
 		false
 	),
@@ -444,10 +598,31 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Milan",
+					"Gvero",
+					"RA-20/2014",
+					"mgstivig585@gmail.com",
+					0
+				),
+				Student(
+					"Isidora",
+					"Seleakovic",
+					"RA-103/2014",
+					"isii24sk@gmail.com",
+					0
+				),
+				Student(
+					"Srdjan",
+					"Zivanic",
+					"RA-204/2013",
+					"srdjan.zivanic@gmail.com",
+					0
+				),
+				Student(
+					"Djordje",
+					"Ramic",
+					"RA-223/2014",
+					"djramic@gmail.com",
 					0
 				),
 			]
@@ -456,7 +631,8 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/Una13/super_mario"),
+				URL("https://www.spriters-resource.com/resources/sheets/24/26482.png")
 			]
 		),
 		Solution(
@@ -471,23 +647,41 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Vuletic",
+					"Milan",
+					"RA-231/2013",
+					"mixa4@live.com",
 					0
 				),
+				Student(
+					"Ercegovcevic",
+					"Luka",
+					"RA-165/2014",
+					"erceg-95@hotmail.com",
+					0
+				),
+				Student(
+					"Egelja",
+					"Maksim",
+					"RA-51/2014",
+					"maksimdavid@gmail.com",
+					0
+				)
 			]
 		),
 		Spec(
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/RELJEF/battle_city_fpga"),
+				URL("http://pc.cd/lJW7")
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/mixa6492/battle_city_fpga",
+			"https://www.youtube.com/watch?v=g26Tc7DwDf8",
+			"https://github.com/mixa6492/battle_city_fpga/blob/master/battle_city_design/tenkici.bit",
+			"https://github.com/mixa6492/battle_city_fpga/blob/master/LPRS2-Tenkici-Dokumentacija.doc"
 		),
 		false
 	),
@@ -498,10 +692,24 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Vladimir",
+					"Lazic",
+					"RA-57/2014",
+					"ironmanm72@gmail.com",
+					0
+				),
+				Student(
+					"Srdjan",
+					"Suvakov",
+					"RA-174/2014",
+					"suvakov.srdjan@gmail.com",
+					0
+				),
+				Student(
+					"Stefan",
+					"Nicetin",
+					"RA-188/2014",
+					"niketic95@gmail.com",
 					0
 				),
 			]
@@ -510,11 +718,13 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/SuvakovSrdjan/LPRS2_Asteroids_game",
+			"https://www.youtube.com/watch?v=J_ozp9WmpPI",
+			"https://github.com/SuvakovSrdjan/LPRS2_Asteroids_game/AsteroidsGame.bit"
 		),
 		false
 	),
@@ -525,10 +735,31 @@ projects = Project[
 		Team(
 			Student[
 				Student(
-					"Ime",
-					"Prezime",
-					"RA-XXX/20YY",
-					"xxx@yyy",
+					"Miljan",
+					"Vajagic",
+					"RA-229/2014",
+					"miljanzr@yahoo.com",
+					0
+				),
+				Student(
+					"Milan",
+					"Trkulja",
+					"RA-227/2014",
+					"milantrkulja995@gmail.com",
+					0
+				),
+				Student(
+					"Lara",
+					"Milovanovic",
+					"RA-123/2014",
+					"lara.milovanovic22@gmail.com",
+					0
+				),
+				Student(
+					"Lazar",
+					"Svonja",
+					"RA-197/2014",
+					"lazar.svonja@gmail.com",
 					0
 				),
 			]
@@ -537,7 +768,41 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL(""),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
+			]
+		),
+		Solution(
+			"https://github.com/X/Y",
+		),
+		false
+	),
+	Project(
+		"Sudoku",
+		40,
+		4,
+		Team(
+			Student[
+				Student(
+					"Miloš",
+					"Ivanković",
+					"RA-233/2014",
+					"ivankovicm02@gmail.com",
+					0
+				),
+				Student(
+					"Dragoljub",
+					"Gajić",
+					"RA-84/2014",
+					"dragoljubgajic1994@gmail.com",
+					0
+				),
+			]
+		),
+		Spec(
+			"""
+			""",
+			URL[
+				URL("https://github.com/MarkoMajkic/LPRS2_Space_Invaders_FSL"),
 			]
 		),
 		Solution(
@@ -548,11 +813,11 @@ projects = Project[
 ]
 
 additional = URL[
-	"https://scontent-vie1-1.xx.fbcdn.net/v/t1.0-9/12814673_1680231525591075_1051729422851094889_n.jpg?oh=36529770e78a7aa5f55afd6fe6d8c417&oe=57E5E5FB",
+	# Making bit file.
 	"https://www.youtube.com/watch?v=RBa6gx5Mx5c",
-	"https://scontent-vie1-1.xx.fbcdn.net/v/l/t1.0-9/13502065_1148717698525627_1747866040367180828_n.jpg?oh=10befb12e2527104db88d56c6019f86b&oe=57E81CBE",
-	"https://www.youtube.com/watch?v=D3LpQkOpD20",
-	"https://www.youtube.com/watch?v=4olSy5UXO_M"
+	# Presentations.
+	# Fun.
+	"https://www.youtube.com/watch?v=X1PR-saP6bI"
 ]
 
 ###############################################################################
@@ -578,4 +843,3 @@ for project in projects
 end
 
 ###############################################################################
-
