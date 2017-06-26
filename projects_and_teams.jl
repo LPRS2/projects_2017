@@ -591,7 +591,7 @@ projects = Project[
 		),
 		Solution(
 			URL("https://github.com/milakotur/LPRS2_Breakout"),
-      URL("https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.bit"),
+			URL("https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.bit"),
 			URL("https://github.com/milakotur/LPRS2_Breakout/blob/master/Breakout.docx")
 		),
 		false
