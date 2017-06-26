@@ -218,7 +218,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/djole995/FBless_2D_GPU/tree/master/pcores/fb_less_2d_gpu_periph_v1_00_a",
+			URL(""),
+			URL(""),
+			"https://github.com/djole995/FBless_2D_GPU/blob/master/pcores/fb_less_2d_gpu_periph_v1_00_a/dokumentacija-LPRS2.docx"
 		),
 		false
 	),
