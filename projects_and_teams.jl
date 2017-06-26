@@ -344,7 +344,10 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/rondor1/Buzzer-synthesizer",
+			"https://www.youtube.com/watch?v=Gk8j9Fwqae4",
+			"https://github.com/rondor1/Buzzer-synthesizer/blob/master/BuzzerSynthesizer.bit",
+			"https://github.com/rondor1/Buzzer-synthesizer/blob/master/Buzzer%20Synthesizer.pdf"
 		),
 		false
 	),
