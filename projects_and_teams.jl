@@ -718,7 +718,9 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/SuvakovSrdjan/LPRS2_Asteroids_game",
+			"https://www.youtube.com/watch?v=J_ozp9WmpPI",
+			"https://github.com/SuvakovSrdjan/LPRS2_Asteroids_game/AsteroidsGame.bit"
 		),
 		false
 	),
