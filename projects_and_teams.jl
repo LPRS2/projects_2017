@@ -85,7 +85,7 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
+				URL("https://github.com/banovicradenko/MahjongProjekatLPRS2"),
 			]
 		),
 		Solution(
