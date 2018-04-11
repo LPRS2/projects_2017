@@ -641,7 +641,7 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/Gvex95/Galaga",
 		),
 		false
 	),
