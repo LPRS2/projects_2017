@@ -85,11 +85,11 @@ projects = Project[
 			"""
 			""",
 			URL[
-				URL("https://github.com/banovicradenko/MahjongProjekatLPRS2"),
+				URL("https://github.com/suncicam/MinesweeperProjekatLPRS2"),
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/banovicradenko/MahjongProjekatLPRS2",
 		),
 		false
 	),
@@ -777,7 +777,7 @@ projects = Project[
 			]
 		),
 		Solution(
-			"https://github.com/X/Y",
+			"https://github.com/MiljanV/DigDugProject",
 		),
 		false
 	),
